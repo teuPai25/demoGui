@@ -26,10 +26,11 @@ metododo2{
 
 
 metododo3{
-    alguma coisa 
-    alguma coisa 
-    alguma coisa 
-    alguma coisa 
-    alguma coisa 
-    alguma coisa 
+    1
+    1
+    1
+    1
+    1
+    1
+
 }
