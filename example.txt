@@ -1,9 +1,20 @@
 Hello world
 
 
-
-
 metododo1{
+    alguma coisa 
+    alguma coisa 
+    alguma coisa 
+    alguma coisa 
+    alguma coisa 
+    alguma coisa 
+}
+
+
+
+
+
+metododo2{
     alguma coisa 
     alguma coisa 
     alguma coisa 
